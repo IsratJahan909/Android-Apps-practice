@@ -8,6 +8,7 @@
     android:autofillHints="Name"
     android:background="@drawable/dezzling"
     android:foregroundGravity="center"
+
     tools:context=".MainActivity">
 
     <TextView
@@ -54,7 +55,7 @@
         tools:srcCompat="@tools:sample/backgrounds/scenic" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btn2"
         android:layout_width="191dp"
         android:layout_height="116dp"
         android:backgroundTint="#FF0000"

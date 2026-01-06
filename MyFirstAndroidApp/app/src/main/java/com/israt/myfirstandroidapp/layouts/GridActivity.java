@@ -1,8 +1,6 @@
-package com.israt.myfirstandroidapp;
+package com.israt.myfirstandroidapp.layouts;
 
-import android.content.Intent;
 import android.os.Bundle;
-import android.widget.Button;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,26 +8,19 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.israt.myfirstandroidapp.layouts.ScrollActivity;
-import com.israt.myfirstandroidapp.layouts.linearActivity;
+import com.israt.myfirstandroidapp.R;
 
-public class MainActivity extends AppCompatActivity {
+public class GridActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_grid);
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
-        });
-        Button btnLogin = findViewById(R.id.main);
-
-        btnLogin.setOnClickListener(v -> {
-            Intent intent = new Intent(MainActivity.this, ScrollActivity.class);
-            startActivity(intent);
         });
     }
 }

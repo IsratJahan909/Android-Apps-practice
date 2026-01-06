@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyFirstAndroidApp">
         <activity
+            android:name=".layouts.GridActivity"
+            android:exported="false" />
+        <activity
+            android:name=".layouts.ScrollActivity"
+            android:exported="false" />
+        <activity
+            android:name=".layouts.linearActivity"
+            android:exported="false" />
+        <activity
             android:name=".Home"
             android:exported="false" />
         <activity

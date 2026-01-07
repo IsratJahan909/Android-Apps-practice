@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplicationTT">
         <activity
+            android:name=".testActivity.FormActivity"
+            android:exported="false" />
+        <activity
             android:name=".testActivity.TostExampleActivity"
             android:exported="false" />
         <activity

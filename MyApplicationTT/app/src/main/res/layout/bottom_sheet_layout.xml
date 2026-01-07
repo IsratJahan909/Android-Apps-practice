@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:text="Bottom Sheet Dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"/>
+
+    <Button
+        android:text="Close"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="dismiss"/>
+</LinearLayout>

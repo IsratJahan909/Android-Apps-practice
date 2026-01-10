@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".layouts2.ScrollActivity2">
+
+
+    <!-- ScrollView can have ONLY ONE direct child -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:text="ScrollView Example"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="342dp"
+            tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:hint="First Name" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:hint="Last Name" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:hint="Email" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="74dp"
+            android:hint="Phone" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:hint="Address" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:hint="City" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="379dp"
+            tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:hint="Country" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit" />
+
+    </LinearLayout>
+</ScrollView>
+
+
+
+

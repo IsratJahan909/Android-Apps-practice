@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/img2"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:text="Custom Dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tvBody"
+        android:text="Custom Dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnClose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Close"/>
+</LinearLayout>

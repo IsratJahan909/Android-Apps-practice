@@ -7,20 +7,44 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.israt.employeeproject.R;
+import com.israt.employeeproject.adapter.EmployeeAdapter;
+import com.israt.employeeproject.db.DatabaseHelper;
 
 public class EmployeeListActivity extends AppCompatActivity {
+
+    private ActivityEmployeeListBinding binding;
+    private EmployeeAdapter adapter;
+    private DatabaseHelper dbHelper;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_employee_list);
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
-            Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
-            return insets;
-        });
+        binding = ActivityEmployeeListBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
+
+        if (getSupportActionBar() != null) {
+            getSupportActionBar().setTitle("কর্মচারী তালিকা");
+        }
+
+        dbHelper = new DatabaseHelper(this);
+        adapter = new EmployeeAdapter();
+
+        binding.recyclerView.setLayoutManager(new LinearLayoutManager(this));
+        binding.recyclerView.setAdapter(adapter);
+
+        loadEmployees();
+    }
+
+    private void loadEmployees() {
+        adapter.setEmployees(dbHelper.getAllEmployees());
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        loadEmployees(); // refresh after adding new employee
     }
 }

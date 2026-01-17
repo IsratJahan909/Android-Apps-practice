@@ -15,6 +15,18 @@ public class EmployeeDao {
     public long insert(Employee employee) {
         SQLiteDatabase db = dbHelper.getWritableDatabase();
         ContentValues values = new ContentValues();
+
+        values.put("name", employee.getName());
+        values.put("email", employee.getEmail());
+        values.put("phone", employee.getPhone());
+        values.put("age", employee.getAge());
+        values.put("salary", employee.getSalary());
+        values.put("active", employee.getActive());
+        values.put("joiningDate", employee.getJoiningDate());
+        values.put("department", employee.getDepartment());
+        values.put("skills", employee.getSkills());
+        values.put("profileImagePath", employee.getProfileImagePath());
+
         long id = db.insert("employees", null, values);
         db.close();
         return id;

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/nav_home"
+    android:icon="@android:drawable/ic_menu_view"
+    android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_form"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Form"/>
+    <item
+        android:id="@+id/nav_scroll"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="Scroll"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Profile"/>
+    <item
+        android:id="@+id/nav_grid"
+     android:icon="@android:drawable/ic_menu_camera"
+        android:title="Grid"/>
+
+</menu>

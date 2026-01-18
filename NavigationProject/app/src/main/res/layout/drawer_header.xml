@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="16dp"
+    android:background="@color/design_default_color_on_secondary">
+
+    <ImageView
+        android:id="@+id/imagelogo"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:src="@drawable/logo_24"
+        android:tint="@color/white" />
+
+
+    <TextView
+        android:id="@+id/mainName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ABC LTD"
+        android:textColor="#E91E63"
+        android:layout_marginLeft="6dp"
+        android:textFontWeight="@integer/material_motion_duration_long_1"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/action_bar_subtitle"
+        android:text="Building the future"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#E91E63"
+        />
+
+
+
+
+
+</LinearLayout>

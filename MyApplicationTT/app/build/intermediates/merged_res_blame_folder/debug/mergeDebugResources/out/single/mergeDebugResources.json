@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_form_updated.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_form_updated.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_table.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\drawable_bg_gradient.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_form3.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_form3.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_scroll2.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_scroll2.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_row_user.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\row_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_toast_custom.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\toast_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_profile2.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_profile2.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_scroll.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_scroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_dialog_custom.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\dialog_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_home2.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_home2.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_form.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_bottom_sheet_layout.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_tost_example.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_tost_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\menu_bottom_nav_menu2.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\menu\\bottom_nav_menu2.xml"
+    },
+    {
+        "merged": "com.example.myapplicationtt.app-debug-37:/layout_rowuser2.xml.flat",
+        "source": "com.example.myapplicationtt.app-main-39:/layout/rowuser2.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_form2.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_form2.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_test.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_relative_layout.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_relative_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_linear.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_linear.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_base.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\layout_activity_grid2.xml.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\layout\\activity_grid2.xml"
+    },
+    {
+        "merged": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-debug-37:\\drawable_img2.jpg.flat",
+        "source": "C:\\Users\\B11\\.gradle\\daemon\\8.13\\com.example.myapplicationtt.app-main-39:\\drawable\\img2.jpg"
+    }
+]

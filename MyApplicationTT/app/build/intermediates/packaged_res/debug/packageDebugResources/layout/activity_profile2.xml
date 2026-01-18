@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".layouts2.ProfileActivity2">
+
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="400dp"
+        android:layout_height="164dp"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/avatar"
+        android:layout_centerHorizontal="true"
+        android:text="John Doe" />
+
+    <Button
+        android:layout_width="328dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextText"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="38dp"
+        android:layout_marginEnd="45dp"
+        android:text="Edit Profile" />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Name" />
+</RelativeLayout>
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF9800</color>
+    <color name="black">#FF000000</color>
+    <color name="primary">#1E88E5</color>
+    <color name="primaryDark">#1565C0</color>
+    <color name="textDark">#212121</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My Application TT</string>
+    <style name="Base.Theme.MyApplicationTT" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplicationTT" parent="Base.Theme.MyApplicationTT"/>
+</resources>
